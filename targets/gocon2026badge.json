@@ -1,0 +1,8 @@
+{
+    "inherits": [
+        "waveshare-rp2040-zero"
+    ],
+    "ldflags": [
+        "--defsym=__flash_size=2048K"
+    ]
+}
